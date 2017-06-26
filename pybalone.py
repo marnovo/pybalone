@@ -4,6 +4,8 @@
 # A Python implementation of the Abalone* board game
 # Abalone is a registered trademark of Abalone S.A.
 #
+# github.com/marnovo
+#
 
 x = 9  # invalid spaces
 b = 0  # empty board spaces
